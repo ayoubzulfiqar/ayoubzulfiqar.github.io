@@ -1,0 +1,141 @@
+[
+  {
+    "name": "LeetCode - DART & Golang",
+    "desc": "This is project that I do coding challenges to improve my skills",
+    "image": "leetcode",
+    "category": "codingChallenges",
+    "links": {
+      "view": "https://www.linkedin.com/posts/ayoubzulfiqar_github-ayoubzulfiqarleetcode-this-repository-activity-6978229565923971072-NmXm?utm_source=share&utm_medium=member_desktop",
+      "code": "https://github.com/ayoubzulfiqar/leetcode"
+    }
+  },
+  {
+    "name": "Open Fashion - Flutter",
+    "desc": "This app is build with Flutter Video Demo & Code Available",
+    "image": "openFashion",
+    "category": "mobileApp",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/sppu-prep-android"
+    }
+  },
+  {
+    "name": "Neomorphic Calculator",
+    "desc": "This is Neomorphic Calculator built with Flutter to Watch demo Click on View",
+    "image": "cal",
+    "category": "mobileApp",
+    "links": {
+      "view": "https://youtu.be/qUqWb6DhBqo",
+      "code": "https://github.com/ayoubzulfiqar/calculator"
+    }
+  },
+  {
+    "name": "Measure Converter",
+    "desc": "This is a Measure Converter app Build with Flutter to Watch Demo Click on View.",
+    "image": "converter",
+    "category": "mobileApp",
+    "links": {
+      "view": "https://youtu.be/oTO4HnJzNiQ",
+      "code": "https://github.com/ayoubzulfiqar/measures_converter"
+    }
+  },
+  {
+    "name": "Dictionary App",
+    "desc": "This is Dictionary App Build with Flutter to Watch Demo Click on View",
+    "image": "dictionary",
+    "category": "mobileApp",
+    "links": {
+      "view": "https://youtu.be/YCxx52Arz5I",
+      "code": "https://github.com/ayoubzulfiqar/dictionary_app"
+    }
+  },
+  {
+    "name": "Fruit Delivery App",
+    "desc": "This is Fruit Delivery App build with Flutter to Watch Demo Click on View.",
+    "image": "food",
+    "category": "mobileApp",
+    "links": {
+      "view": "https://youtu.be/h6r02oMrY6Q",
+      "code": "https://github.com/ayoubzulfiqar/furit_delivery_appUI"
+    }
+  },
+  {
+    "name": "Word Search",
+    "desc": "This is Simple Word Search App built with flutter to Watch Demo Click View",
+    "image": "wordSearch",
+    "category": "mobileApp",
+    "links": {
+      "view": "https://youtu.be/wqWrDajUO_I",
+      "code": "https://github.com/jigar-sable/React-Projects"
+    }
+  },
+  {
+    "name": "Tic Tac Toe",
+    "desc": "This is TicTacToe Game built using Flutter to Watch Demo Click on View ",
+    "image": "tictacktoe",
+    "category": "games",
+    "links": {
+      "view": "https://youtu.be/3spGAFg3hHg",
+      "code": "https://github.com/ayoubzulfiqar/tic_tac_toe"
+    }
+  },
+  {
+    "name": "Classic 2048 Game",
+    "desc": "This is Classic 2048 Game built with Flutter to Watch Demo click on View.",
+    "image": "2048",
+    "category": "games",
+    "links": {
+      "view": "https://youtu.be/5DKS7TKXyMI",
+      "code": "https://github.com/ayoubzulfiqar/flutter_2048"
+    }
+  },
+  {
+    "name": "Ping Pong",
+    "desc": "This is Ping Pong Game Built with Flutter to Watch Demo Click on View",
+    "image": "pingpong",
+    "category": "games",
+    "links": {
+      "view": "https://youtu.be/yxnEEIe3tI8",
+      "code": "https://github.com/ayoubzulfiqar/ping_pong"
+    }
+  },
+  {
+    "name": "Responsive App",
+    "desc": "This article show how to build and scale flutter app on different type of screen sizes Both iOS/Android",
+    "image": "responsive",
+    "category": "articles",
+    "links": {
+      "view": "https://dev.to/ayoubzulfiqar/how-to-make-responsive-app-in-flutter-2ij5",
+      "code": "https://github.com/ayoubzulfiqar/responsive"
+    }
+  },
+  {
+    "name": "Working with API",
+    "desc": "In this example shows all the http methods ( POST FETCH, PUT, DELETE) and how to fetch the data from the api and for example REST API Services.",
+    "image": "rest",
+    "category": "articles",
+    "links": {
+      "code": "https://github.com/ayoubzulfiqar/api_calling"
+    }
+  },
+  {
+    "name": "Backend with DART",
+    "desc": "This article will show you a simple method of connecting a Dart Frog server to a remote MySQL database.",
+    "image": "api",
+    "category": "articles",
+    "links": {
+      "view": "https://dev.to/ayoubzulfiqar/how-to-create-a-minimal-backend-api-service-using-dart-frog-with-mysql-database-5hig",
+      "code": "https://github.com/ayoubzulfiqar/frogging_with_mysql"
+    }
+  },
+  {
+    "name": "Flutter with MySQL",
+    "desc": "This article showcase the how to implement MySQL database inside flutter app without using any external service.",
+    "image": "send",
+    "category": "articles",
+    "links": {
+      "view": "https://dev.to/ayoubzulfiqar/how-to-send-and-show-data-from-flutter-app-to-mysql-database-without-php-or-restapi-server-1mok",
+      "code": "https://github.com/ayoubzulfiqar/flutter_with_mysql"
+    }
+  }
+]

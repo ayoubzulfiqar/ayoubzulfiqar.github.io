@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Flutter",
+        "icon": "https://img.icons8.com/color/48/000000/flutter.png"
+    },
+    {
+        "name": "Dart",
+        "icon": "https://img.icons8.com/color/48/000000/dart.png"
+    },
+    {
+        "name": "Golang",
+        "icon": "https://img.icons8.com/color/48/000000/golang.png"
+    },
+    {
+        "name": "TypeScript",
+        "icon":"https://img.icons8.com/fluency/48/000000/typescript.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/my-sql.png"
+    },
+    {
+        "name": "Rest API",
+        "icon": "https://img.icons8.com/color/48/000000/rest-api.png"
+    },
+    {
+        "name": "Firebase",
+        "icon": "https://img.icons8.com/color/48/000000/firebase.png"
+    },
+    {
+        "name": "Figma",
+        "icon": "https://img.icons8.com/color/48/000000/figma.png"
+    },
+    {
+        "name": "Adobe XD",
+        "icon": "https://img.icons8.com/color/48/000000/adobe-xd.png"
+    },
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "Android",
+        "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
+    },
+    {
+        "name": "MaterialUI",
+        "icon": "https://img.icons8.com/color/48/000000/material-ui.png"
+    },
+    {
+        "name": "Git VCS",
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "Docker",
+        "icon": "https://img.icons8.com/fluency/48/000000/docker.png"
+    }
+       
+]
