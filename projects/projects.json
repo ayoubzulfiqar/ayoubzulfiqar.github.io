@@ -119,6 +119,15 @@
     }
   },
   {
+    "name": "Web Scrapper with Go",
+    "desc": "In this projects show how  to scrap different type of data from internet using Golang",
+    "image": "scrapper",
+    "category": "articles",
+    "links": {
+      "code": "https://github.com/ayoubzulfiqar/go-scraper"
+    }
+  },
+  {
     "name": "Backend with DART",
     "desc": "This article will show you a simple method of connecting a Dart Frog server to a remote MySQL database.",
     "image": "api",
